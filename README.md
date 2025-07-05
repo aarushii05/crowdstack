@@ -28,7 +28,3 @@ Frontend
 cd frontend
 npm install
 npm start
-.env (Backend)
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-STRIPE_SECRET_KEY=your_stripe_key
